@@ -17,7 +17,7 @@ g++ RandomlyPlayWindowsHardwareRemoveAndInsert.cpp -o RandomlyPlayWindowsHardwar
 
 ### ⚠️ Warning
 
-Make sure this program is running in the foreground when you start it. Otherwise, I won't sure which window will be hidden.
+Make sure this program is running in the foreground when you start it. Otherwise, I am not sure which window will be hidden.
 
 ---
 
