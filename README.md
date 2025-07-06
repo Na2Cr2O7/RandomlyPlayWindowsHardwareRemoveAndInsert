@@ -1,7 +1,3 @@
-当然可以！以下是对你的 `README` 的优化和翻译（英文版保持清晰专业，中文版为对应翻译）：
-
----
-
 ## 🎵 RandomlyPlayWindowsHardwareRemoveAndInsert
 
 ### English Version
@@ -44,6 +40,3 @@ g++ RandomlyPlayWindowsHardwareRemoveAndInsert.cpp -o RandomlyPlayWindowsHardwar
 
 请确保程序启动时处于前台运行状态，否则我也不知道哪个窗口被隐藏了。
 
----
-
-如果你还需要添加功能说明、截图、或者打包发布指南，我也可以继续帮你完善！
